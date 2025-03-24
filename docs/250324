@@ -1,0 +1,5 @@
+###第一天
+1.cdh集群装载,调制,运行
+2.datagrip连接hive
+3.日志数据生成用Flume写入到hdfs
+4.ods建表
