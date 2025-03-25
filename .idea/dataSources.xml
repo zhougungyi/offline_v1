@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="cdh01-hive" uuid="986ef03d-6d59-47ff-94ae-8ba7619cb1a2">
+    <data-source source="LOCAL" name="cdh-hive" uuid="986ef03d-6d59-47ff-94ae-8ba7619cb1a2">
       <driver-ref>hive</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
